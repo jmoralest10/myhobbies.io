@@ -1,0 +1,33 @@
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    border: 25px solid ##2B7A78;
+
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    color: white;
+}
+
+h3{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    color: crimson; 
+}
+
+
+
+p{
+   
+font-family: 'Lato', sans-serif;
+    text-align: center;
+    
+}
+
+#banner {
+    background-color: black;
+}
